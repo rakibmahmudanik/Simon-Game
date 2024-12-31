@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+.btn-container {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  width: 150px;
+  height: 150px;
+  border-radius: 20%;
+  border: 10px solid black;
+  margin: 1.5rem;
+}
+
+.red {
+  background-color: rgb(255, 79, 79);
+}
+
+.green {
+  background-color: rgb(21, 169, 129);
+}
+
+.orange {
+  background-color: rgb(254, 181, 91);
+}
+
+.blue {
+  background-color: rgb(71, 129, 255);
+}
+.btn-flash {
+  background-color: #fff;
+}
+
+.wrong-indicate {
+  background-color: red;
+}
